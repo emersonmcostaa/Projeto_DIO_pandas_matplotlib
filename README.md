@@ -4,7 +4,7 @@
 
 
 ## Sobre o projeto
-Esse repositório contém um script em python, é um projeto para entregar para DIO do Bootcamp Data Enginner Banco Carrefour!
+Esse repositório contém um script em python, é um projeto para entregar para DIO do Bootcamp Data Engineer Banco Carrefour!
 
 
 ## Tecnologias utilizadas
